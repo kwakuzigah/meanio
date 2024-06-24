@@ -1,10 +1,10 @@
 {
   "name": "server",
   "dependencies": {
-    "express": "^4.2.0",
-    "express-session": "^1.1.0",
-    "express-validator": "^2.1.1",
-    "connect-mongo": "^1.1.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "express-validator": "^7.0.1",
+    "connect-mongo": "^5.1.0",
     "cookie-parser": "^1.1.0",
     "gridfs-stream": "^0.5.1",
     "passport": "^0.2.0",
