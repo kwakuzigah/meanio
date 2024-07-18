@@ -44,7 +44,8 @@
     "npm": "10.6.x"
   },
   "dependencies": {
-    "@sentry/node": "^4.5.4",
+    "@sentry/node": "^8.18.0",
+    "@sentry/profiling-node": "^8.18.0",
     "complex-list": "latest",
     "dependable-list": "latest",
     "glob": "^4.0.3",
